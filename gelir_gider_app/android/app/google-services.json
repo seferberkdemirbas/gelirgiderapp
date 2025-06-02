@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885441656480",
+    "project_id": "mobilfinans-243d5",
+    "storage_bucket": "mobilfinans-243d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885441656480:android:e9d89811e0a0f672473bc5",
+        "android_client_info": {
+          "package_name": "com.example.gelir_gider_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4RaVpudB3EvY14iZmalX3CtA_dY15VvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
